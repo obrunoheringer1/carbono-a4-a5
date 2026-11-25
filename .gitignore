@@ -32,3 +32,7 @@ dist-ssr
 
 # PDFs das fontes (lidos localmente, não versionados)
 fontes/
+
+# Vídeo de demonstração: saída e cache não versionados
+demo/out/
+demo/data/cache/
